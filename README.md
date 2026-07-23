@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Abdul Rauf Khan
+## Hi there 👋 i am Abdul Rauf Khan 
 
 
-abdulraufkhan.com
+
