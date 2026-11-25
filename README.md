@@ -1,70 +1,143 @@
-<h1 align="center">Hi there 👋, I'm Abdul Rauf Khan</h1>
-<h3 align="center">AI/ML & Full-Stack Web Developer from Pakistan 🇵🇰</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Building+smart+automation+tools" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🤖 Working on **AI, machine learning and automation** projects
-- 🌐 Building modern, responsive **web applications**
-- 🌱 Always learning new tools in AI and web development
-- 🤝 Open to collaborating on interesting AI and web projects
-- ⚡ Fun fact: I enjoy turning ideas into working products
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Project One](https://github.com/Abdul001-ai) | Short description of your AI project |
-| [Project Two](https://github.com/Abdul001-ai) | Short description of your web app |
-| [Project Three](https://github.com/Abdul001-ai) | Short description of your automation tool |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdul001-ai&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul001-ai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1020,40:312e81,75:7c3aed,100:db2777&height=260&section=header&text=Abdul%20Rauf%20Khan&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Automation&descSize=17&descAlignY=64&animation=twinkling&stroke=a78bfa&strokeWidth=1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul001-ai&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%E2%9C%A8+Turning+ideas+into+intelligent+products;%F0%9F%A4%96+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Apps;%F0%9F%8C%90+Modern%2C+scalable+web+experiences;%E2%9A%A1+Automating+the+boring+stuff" />
 </p>
 
-## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Abdul001-ai?tab=repositories"><img src="https://img.shields.io/badge/-Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-16A34A?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Abdul001-ai&style=for-the-badge&color=db2777&label=VIEWS" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul001-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+<h2>👨‍💻 About Me</h2>
+
+I'm **Abdul Rauf Khan**, an AI engineer and full-stack developer from **Pakistan 🇵🇰** who loves building products where **intelligence meets great design**.
+
+- 🧠 Building **ML models, LLM apps & AI agents**
+- 🌐 Crafting **fast, responsive web platforms**
+- ⚙️ Automating workflows end-to-end
+- 🌱 Currently diving deeper into **MLOps & RAG systems**
+- 🤝 Open to **collaborations & freelance work**
+
+</td>
+<td width="42%" align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/giphy.gif" width="0" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul001-ai&color=blueviolet" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,express,fastapi&theme=dark&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,tailwind,mongodb,postgres,docker,git,linux&theme=dark&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Project One
+> One-line summary of the AI problem it solves and its impact.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+[**View Repo →**](https://github.com/Abdul001-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Project Two
+> One-line summary of the web app, its users, and key features.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[**View Repo →**](https://github.com/Abdul001-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Project Three
+> One-line summary of the automation tool and time it saves.
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[**View Repo →**](https://github.com/Abdul001-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Project Four
+> One-line summary of the data project and its key insights.
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[**View Repo →**](https://github.com/Abdul001-ai)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdul001-ai&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul001-ai&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdul001-ai&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul001-ai&theme=react-dark&bg_color=0d1117&color=c084fc&line=db2777&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">💬 Let's Build Something Amazing</h2>
+
+<p align="center">
+  <i>"Code with purpose, design with heart, ship with confidence."</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Abdul001-ai"><img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,40:7c3aed,75:312e81,100:0b1020&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70" />
 </p>
